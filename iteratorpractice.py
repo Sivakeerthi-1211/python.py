@@ -1,0 +1,10 @@
+number = [1,2,32,3,43,4,45]
+it = iter(number)
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
+print(next(it))
